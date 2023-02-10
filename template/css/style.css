@@ -50,6 +50,7 @@ body {
 .header_section .container-fluid {
   padding-right: 25px;
   padding-left: 25px;
+  background-color: wheat;
 }
 
 .header_section .nav_container {
@@ -58,7 +59,7 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 30px;
-  color: #ffffff;
+  color: black;
   text-align: center;
   text-transform: uppercase;
 }
@@ -190,6 +191,8 @@ a:focus {
   background-color: #252525;
   border: 1px solid #252525;
   color: #ffffff;
+  margin: auto;
+  border-radius: 20px;
 }
 
 .slider-btn2:hover {
